@@ -18,14 +18,6 @@ const faqs = [
     q: "¿Cómo sé si un plástico es reciclable?",
     a: "Los plásticos con los códigos 1 (PET), 2 (PEAD) y 5 (PP) son los más aceptados en los circuitos de reciclaje de la ciudad. Los encontrás grabados en la base del envase. Los de código 7 (otros) generalmente no son reciclables.",
   },
-  {
-    q: "¿La iniciativa Monte Castro Recicla es parte del gobierno de la ciudad?",
-    a: "No. Somos una organización vecinal independiente. Trabajamos en conjunto con la Dirección General de Limpieza del GCBA, pero no somos un organismo público. Toda la gestión de reclamos la derivamos a los canales oficiales.",
-  },
-  {
-    q: "¿Cómo puedo sumarme como voluntario/a?",
-    a: "¡Con mucho gusto! Podés escribirnos a voluntarios@montecastrorecicla.org o seguirnos en redes sociales. Hacemos encuentros barriales el primer sábado de cada mes en la Plaza Arenales.",
-  },
 ];
 
 export function FAQ() {
